@@ -17,7 +17,7 @@ The project models a simple notification service where a main routine:
 To copy this project, use the following command:
 
 ```bash
-git clone https://github.com/YourUsername/CIS18B-S25-33479-Assignment5.git
+git clone https://github.com/Drake-Programming/CIS18B-S25-33479-Assignment5.git
 ```
 
 To compile and run the code from the terminal, use the following commands:
